@@ -4,6 +4,10 @@
 
 This app provides backend accessibility to a store's inventory. With it you can adjust any information relavent to the current status of its products.
 
+
+[ecommerce-backend.webm](https://user-images.githubusercontent.com/22803118/220208265-4e582f7a-3db9-415b-bbfc-b78e38259107.webm)
+
+
 ## Installation
 
 This application requires Express, Mysql2, Sequelize and Dotenv.
