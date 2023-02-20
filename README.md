@@ -10,7 +10,7 @@ This application requires Express, Mysql2, Sequelize and Dotenv.
 
 ## Usage
 
-Open the application through your CLI and start writing notes in oyour client browser.
+Open the application through your CLI..
 
 ## Testing
 
