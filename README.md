@@ -5,7 +5,8 @@
 This app provides backend accessibility to a store's inventory. With it you can adjust any information relavent to the current status of its products.
 
 
-[ecommerce-backend.webm](https://user-images.githubusercontent.com/22803118/220208265-4e582f7a-3db9-415b-bbfc-b78e38259107.webm)
+[Untitled_ Feb 20, 2023 2_57 PM.webm](https://user-images.githubusercontent.com/22803118/220210324-95c98fc0-fb88-4531-ab20-caf08b85b860.webm)
+
 
 
 ## Installation
